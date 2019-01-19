@@ -1,3 +1,6 @@
+##
+I find this very bad to say, but I am convinced that after learning the fundamentals of javascript as pre-school homework, I have not been able to master and apply the curriculum of the past 2 weeks. therefore not for this homework assignment either. in my opinion this is all I have been able to set up as the start of this assignment, and get stuck with the questions where functional programming should be applied. So I made the part functions of codeacedemy again and tried to build with the current teaching material and spent hours in a row to find out where I could possibly make progress with as a result a lot of rabbit holes and black outs, but unfortunately this is still the result.
+
 # Homework Assignment
 
 This assignment covers the first week of the Intermediate Bootcamp. This repository contains 3 test files, each covering a single task. The order of the tasks does not matter. **You can complete them in any order.** Try to complete as many of them as you can. 
